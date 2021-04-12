@@ -1,8 +1,8 @@
-# SCA-Cloud-School-Application
+
 
 ## Content
 
-This is a simple Dockerized Flask webpage  built in fulfilment of SCA cloud school Application
+This is a simple Dockerized Flask webpage.
 
 ## Technologies used
 
